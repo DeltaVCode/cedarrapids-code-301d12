@@ -1,0 +1,17 @@
+
+body {
+  background-color: whitesmoke;
+  font-size: 25px;
+  text-align: center;
+  color: whitesmoke;
+}
+h3 {
+  background-color: red;
+  border-radius: 10px;
+  display: inline;
+  padding: 10px;
+}
+p {
+  font-size: 30px;
+  background-color: green;
+}
