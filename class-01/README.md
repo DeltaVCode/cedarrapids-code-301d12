@@ -4,7 +4,8 @@
 
 Today we will be covering some new topics and reviewing concepts you should already be familiar with.
 
-We will spend some time reviewing the concepts from the prework. We will also discuss several new topics: `create-react-app` and component-based architecture.
+We will spend some time reviewing the concepts from the prework. 
+We will also discuss several new topics: `create-react-app` and component-based architecture.
 
 ## Class Outline
 
