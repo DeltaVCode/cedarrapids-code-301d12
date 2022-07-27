@@ -1,0 +1,13 @@
+main {
+  background-color: rgba(105, 218, 49, 0.598);
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
