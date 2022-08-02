@@ -1,0 +1,25 @@
+{
+  "name": "pizza-api-class-07",
+  "version": "1.0.0",
+  "description": "pizza-api-demo",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaV-Instructor/pizza-api-class-07.git"
+  },
+  "author": "Craig Barkley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeltaV-Instructor/pizza-api-class-07/issues"
+  },
+  "homepage": "https://github.com/DeltaV-Instructor/pizza-api-class-07#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "kill-port": "^2.0.1"
+  }
+}

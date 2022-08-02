@@ -1,0 +1,22 @@
+[
+  {
+    "pizzatype": "Calzone",
+    "location": "California",
+    "rating": "6"
+  },
+  {
+    "pizzatype": "Chicago",
+    "location": "Illinois",
+    "rating": "8"
+  },
+  {
+    "pizzatype": "Detroit",
+    "location": "Michigan",
+    "rating": "9"
+  },
+  {
+    "pizzatype": "New York",
+    "location": "New Jersey",
+    "rating": "7"
+  }
+]
